@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Bridge Pantry Chicago">
+  <rect width="64" height="64" rx="16" fill="#0B3C5D"/>
+  <path d="M15 45V35a17 17 0 0 1 34 0v10" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="32" cy="34" r="6.6" fill="#E3B23C"/>
+  <path d="M9 47.5h46" stroke="#2E8B57" stroke-width="5" stroke-linecap="round"/>
+</svg>
